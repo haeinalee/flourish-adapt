@@ -1,0 +1,3 @@
+air quality: the degree to which ambient air is pollution-free
+water quality: the degree to which ambient water is pollution-free 
+natural resources: materials or substances such as minerals, forests, water and fertile land 

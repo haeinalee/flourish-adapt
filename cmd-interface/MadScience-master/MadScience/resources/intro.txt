@@ -1,0 +1,8 @@
+Hello Mad Scientist _name_!
+Due to your stellar reputation and expertise in Chemical Engineering, Bioengineering, Physics, ...
+...
+and Computer Science, you have been selected to carry out the Clean Earth Initiative. The Clean Earth
+Initiative, which is funded by the US government in addition to many other institutions, aims to stop 
+climate change and mitigate its effects on us and our home, Earth. As the leader of this initiative, 
+here is $100 billion dollars of funding for your laboratory! We look forward to seeing your 
+innovations make a positive impact on our environment!
